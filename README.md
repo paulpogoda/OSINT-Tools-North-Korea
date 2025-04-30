@@ -34,6 +34,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [List of DPRK Websites and Archives](https://sites.google.com/view/northnkaal/other-materials/north-korean-websites?pli=1)
 
 ### Courts
+- 
 
 ## Legal Entities
 - [List of DPRK Companies | Wiki](https://en.wikipedia.org/wiki/List_of_companies_of_North_Korea)
@@ -43,7 +44,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Maps
 - [Mapping North Korea](https://www.mappingnorthkorea.com/map) | [Github Repo](https://github.com/MRVDH/mapping-north-korea)
 - [Mapping North Korea at Openstreeetmap Wiki](https://wiki.openstreetmap.org/wiki/Mapping_North_Korea)
-
 
 ## Vehicles
 ### Land
@@ -55,8 +55,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Track North Korea-linked ships across the region](https://membership.nknews.org/nk-pro-ship-tracker/). Paid
 
 ## People 
-(Names, Addresses, Yellow Pages, White Pages etc.)
 - [Entity 1. 2 etc.]
+- [Center for North Korean Human Rights Records](https://www.unikorea.go.kr/eng_unikorea/whatwedo/NorthKoreanHumanRights/records/)
+- [North Korean Prison Database](https://nkpd.io)
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 ## Public procurement
