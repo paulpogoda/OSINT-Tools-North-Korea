@@ -22,8 +22,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Open Data 
 - [Democratic People's Republic of Korea - WHO Data](https://data.who.int/countries/408)
 - [DPRK Reports Database | Downloadable! — see the About Section](https://dprk-reports.org/). The database and site have been built using OCCRP Aleph. Some sources are hidden from anonymous users. Sign in to see all results you are authorised to access.
-- [DPRK at World Intellectual Property Organization Website](https://www.wipo.int/directory/en/details.jsp?country_code=KP)
 - [38 North DPRK Reference Portal](https://www.38northref.org). The Portal contains resource pages about key North Korean issues, initiatives and facilities, pulling together contextual information and related documents, videos and photos to aid the research process
+- [DPRK at World Intellectual Property Organization Website](https://www.wipo.int/directory/en/details.jsp?country_code=KP)
+- [North Korea on CIA's The World Factbook](https://www.cia.gov/the-world-factbook/countries/korea-north/)
 - [NK News](https://www.nknews.org) and [NK PRO](https://www.nknews.org/pro/) in English.
 
 ### DPRK Websites that could be useful in OSINT
@@ -73,6 +74,5 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [List of DPRK Economic Magazines](https://www.38north.org/resources/2022/12/journals/dprk-economic-journals/) | [Archived, 2025](https://web.archive.org/web/20250407115221/https://www.38north.org/resources/2022/12/journals/dprk-economic-journals/)
 - [SIPRI](https://www.sipri.org/search/node?keys=North+Korea)
 - [Our World in Data](https://ourworldindata.org/country/north-korea)
-- [North Korea on CIA's The World Factbook](https://www.cia.gov/the-world-factbook/countries/korea-north/)
 - [North Korea on Statista](https://www.statista.com/topics/4927/north-korea/)
 - Read: [Shopping for Mass Destruction. North Korea’s Illicit Procurement Networks](https://static.rusi.org/shopping-for-mass-destruction-final.pdf)
