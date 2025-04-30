@@ -1,1 +1,43 @@
 # OSINT-Tools-North-Korea
+<img src="[LINK-TO-THE-FLAG.PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1600px-Flag_of_North_Korea.svg.png)" alt="NK_FLAG"/>
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Democratic People's Republic of Korea (DPRK). Most of the resources and tools has versions in [LANGUAGES]. [OTHER COMMENTS]
+
+## Contributions
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+
+## Table of contents:
+ - [Open Data portals](#open-data-portals)
+ - [Legal Entities](#legal-entities)
+ - [Cadastral and other Maps](#maps)
+ - [Vehicles](#vehicles)
+ - [People, phones, social etc.](#people)
+ - [Public procurements](#public-procurement)
+ - [WHOIS](#whois)
+ - [Appendix](#appendix) # Add it only if you really have to
+
+## Open Data portals
+(Country Open Data, Stock Exchange, Courts)
+- [Entity 1. 2 etc.]
+
+## Legal Entities
+- [Entity 1. 2 etc.]
+
+## Maps
+(Cadastral Maps if available, GIS etc.)
+- [Entity 1. 2 etc.]
+
+## Vehicles
+- [Entity 1. 2 etc.]
+
+## People 
+(Names, Addresses, Yellow Pages, White Pages etc.)
+- [Entity 1. 2 etc.]
+- Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
+
+## Public procurement
+- [Entity 1. 2 etc.]
+
+## WHOIS
+- [Entity 1. 2 etc.]
+
+## Appendix
