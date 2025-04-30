@@ -1,6 +1,6 @@
 # OSINT-Tools-North-Korea
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1600px-Flag_of_North_Korea.svg.png" alt="NK_FLAG"/>
-A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Democratic People's Republic of Korea (DPRK). Most of the resources and tools has versions in [LANGUAGES]. [OTHER COMMENTS]
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Democratic People's Republic of Korea (DPRK). Since the country is not very open you have to use some international sources and keep it in mind that they're could be outdated and/or misleaded. 
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
@@ -16,8 +16,13 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
  - [Appendix](#appendix) # Add it only if you really have to
 
 ## Open Data portals
-(Country Open Data, Stock Exchange, Courts)
-- [Entity 1. 2 etc.]
+- [North Korea on CIA's The World Factbook](https://www.cia.gov/the-world-factbook/countries/korea-north/)
+- [38 North](https://www.38north.org). 38 North, a publication of the Stimson Center, is an authoritative source of policy and technical analysis regarding North Korea’s internal and external affairs. It aims to facilitate an informed public policy debate about peace and security on the Korean Peninsula and provide policymakers, practitioners, and other stakeholders with data and insights that may enhance understanding of one of the world’s most complex security dilemmas
+- [List of DPRK Science and Tech Magazines](https://www.38north.org/resources/2023/03/journals/dprk-st-journals/) | [Archived, 2025](https://web.archive.org/web/2/https://www.38north.org/resources/2023/03/journals/dprk-st-journals/)
+
+### Stock
+
+### Courts
 
 ## Legal Entities
 - [Entity 1. 2 etc.]
