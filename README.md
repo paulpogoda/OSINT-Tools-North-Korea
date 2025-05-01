@@ -40,8 +40,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [North Korea Business Directory](https://www.globaldatabase.com/north-korea-companies-database). Paid
 
 ## Maps
-- [Mapping North Korea](https://www.mappingnorthkorea.com/map) | [Github Repo](https://github.com/MRVDH/mapping-north-korea)
+- [Mapping North Korea](https://www.mappingnorthkorea.com/map) | See also MNK [Github Repo](https://github.com/MRVDH/mapping-north-korea)
 - [Mapping North Korea at Openstreeetmap Wiki](https://wiki.openstreetmap.org/wiki/Mapping_North_Korea)
+- Don't forget Google Earth Pro and Sentinel
 
 ## Vehicles
 ### Land
