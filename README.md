@@ -1,5 +1,5 @@
 # OSINT-Tools-North-Korea
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1600px-Flag_of_North_Korea.svg.png" alt="NK_FLAG"/>
+<img src="https://commons.wikimedia.org/wiki/File:Flag_of_North_Korea_(20-33).svg" alt="NK_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Democratic People's Republic of Korea (DPRK). 
 
 - Yo may say I'm crazy, but I'm not. DPRK OSINT is [possible](https://www.linkedin.com/pulse/sigint-north-korea-matthias-wilson-p60vf/?trackingId=GAuy4ljVTkCwgoGyazN0fw%3D%3D).
