@@ -4,7 +4,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 - Yo may say I'm crazy, but I'm not. DPRK OSINT is [possible](https://www.linkedin.com/pulse/sigint-north-korea-matthias-wilson-p60vf/?trackingId=GAuy4ljVTkCwgoGyazN0fw%3D%3D).
 - Since the country is not very open, you have to use some international sources and keep it in mind that they're could be outdated and/or misleaded.
-- Be careful, don't forget about OPSEC.
+- Be careful; don't forget about OPSEC.
 
 ![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-North-Korea?label=Last%20updated)
 
