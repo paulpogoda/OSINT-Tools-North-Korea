@@ -6,6 +6,8 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 - Since the country is not very open, you have to use some international sources and keep it in mind that they're could be outdated and/or misleaded.
 - Be careful, don't forget about OPSEC.
 
+![Last updated](https://img.shields.io/github/last-commit/paulpogoda/OSINT-Tools-North-Korea?label=Last%20updated)
+
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
